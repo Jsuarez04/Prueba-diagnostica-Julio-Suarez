@@ -119,5 +119,5 @@ Los resultados paso a paso y tiempos de ejecución se almacenan en archivos .txt
 Se respetan las buenas prácticas de programación, manejo de errores y validación de entradas.
 
 Link a la defensa
-[Incluir aquí el link a la presentación o defensa si aplica]
+https://youtu.be/4I1g8c7kMJ4
 ```
